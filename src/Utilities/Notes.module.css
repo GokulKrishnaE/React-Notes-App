@@ -1,0 +1,48 @@
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+
+    color: white;
+}
+.gridElements{
+    padding: 40px 40px;
+    height: 200px;
+}
+
+li{
+    padding: 10px;
+}
+
+.btn1{
+    margin: 0 20px 0 40px;
+    border: none;
+    outline: none;
+    background-color: #03A6FF;
+    color: white;
+    width: 90px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.btn2{
+    border: none;
+    outline: none;
+    background-color: #03A6FF;
+    color: white;
+    width: 90px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.buttons{
+    padding-bottom: 40px;
+}
+.h2{
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 0;
+}
+.p{
+    font-size: 20px;
+}

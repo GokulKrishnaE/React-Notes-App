@@ -1,0 +1,43 @@
+.section{
+    padding: 15px 0;
+}
+
+.logo{
+    margin: 0;
+    color: Black;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+.navbarFlex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ulFlex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.li{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-right: 36px;
+}
+li{
+    list-style-type: none;
+}
+
+
+
+@media only screen and (max-width:600px){
+
+    .logo{
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+        font-weight: bolder;
+        text-decoration: none;
+    }
+
+}
